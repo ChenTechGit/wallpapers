@@ -21,5 +21,5 @@ git pull
 ```
 
 ## Credits
-The "ericmurphy_default.png" wallpaper was taken from [here](https://github.com/ericmurphyxyz/dotfiles/blob/master/.local/share/wall.png)
+The "ericmurphy-default.png" wallpaper was taken from [here](https://github.com/ericmurphyxyz/dotfiles/blob/master/.local/share/wall.png)
 The "forest-sunset" wallpaper was taken from [here](https://wall.alphacoders.com/big.php?i=1348349)
