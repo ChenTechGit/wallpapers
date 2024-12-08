@@ -1,4 +1,5 @@
 <h1 align="center">Wallpapers</h1>
+
 My collection of wallpapers, based on [Stephan Raabe's wallpaper repo](https://github.com/mylinuxforwork/wallpaper)
 
 ## Installation
