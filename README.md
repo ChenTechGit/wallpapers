@@ -19,3 +19,6 @@ You can update the wallpapers with
 cd ~/wallpaper
 git pull
 ```
+
+## Credits
+The "ericmurphy_default.png" wallpaper is taken from [here](https://github.com/ericmurphyxyz/dotfiles/blob/master/.local/share/wall.png)
